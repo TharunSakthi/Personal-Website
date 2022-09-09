@@ -22,7 +22,11 @@ nav{
   padding-right: 10%;
 }
 
-
+.logo{
+  color: white;
+  font-size: 150%;
+  font-family: 'Roboto Thin';
+}
 
 nav ul li{
   list-style-type: none;
